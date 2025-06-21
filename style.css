@@ -42,3 +42,8 @@ body {
     border: 1px solid crimson;
     color: crimson;
 }
+
+.bgcolor::after{
+    content: "",
+    color: "yellow",
+}
